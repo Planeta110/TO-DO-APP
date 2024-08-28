@@ -1,8 +1,10 @@
 ## To Do App (APLICACIÓN DE LISTA DE COSAS POR HACER) :rocket:
+
+### (❗) Este proyecto y app solo funciona en **android**.
 - - -
 ### Como instalar 
 
-#### (❗) Este proyecto y app solo funciona en **android**.
+
 
 - 1 Descargar la aplicación desde este link o desde github [Link de descarga ✔️](https://planeta110.github.io/download/to-do-app).
 
