@@ -1,0 +1,52 @@
+{
+    "tareas": {
+        "tareasVeryLow": [
+            {
+                "titulo": "Comprar leche",
+                "descripcion": "Ir al supermercado y comprar un litro de leche",
+                "fecha": "2024-08-17",
+                "priority": "Very Low"
+            }
+        ],
+        "tareasLow": [
+            {
+                "titulo": "Comprar leche",
+                "descripcion": "Ir al supermercado y comprar un litro de leche",
+                "fecha": "2024-08-17",
+                "priority": "Low"
+            }
+        ],
+        "tareasHalf": [
+            {
+                "titulo": "Comprar leche",
+                "descripcion": "Ir al supermercado y comprar un litro de leche",
+                "fecha": "2024-08-17",
+                "priority": "Half"
+            }
+        ],
+        "tareasNormal": [
+            {
+                "titulo": "Comprar leche",
+                "descripcion": "Ir al supermercado y comprar un litro de leche",
+                "fecha": "2024-08-17",
+                "priority": "Normal"
+            }
+        ],
+        "tareasHigh": [
+            {
+                "titulo": "Comprar leche",
+                "descripcion": "Ir al supermercado y comprar un litro de leche",
+                "fecha": "2024-08-17",
+                "priority": "High"
+            }
+        ],
+        "tareasVeryHigh": [
+            {
+                "titulo": "Comprar leche",
+                "descripcion": "Ir al supermercado y comprar un litro de leche",
+                "fecha": "2024-08-17",
+                "priority": "Very High"
+            }
+        ]
+    }
+}
